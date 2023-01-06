@@ -3,15 +3,15 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
+        "BannerAd": "admob",
         "InterstitialAd": "facebook",
         "NativeAd": "facebook",
 	      
       	"InterImage": "",
-        "InterVideo": "admob",
-        "InterAudio": "facebook",
+        "InterVideo": "",
+        "InterAudio": "",
         "InterDocs": "",
-        "InterOther": "max",
+        "InterOther": "",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
