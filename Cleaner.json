@@ -8,9 +8,9 @@
         "NativeAd": "max",
 	      
       	"InterImage": "max",
-        "InterVideo": "max",
+        "InterVideo": "facebook",
         "InterAudio": "max",
-        "InterDocs": "max",
+        "InterDocs": "facebook",
         "InterOther": "max",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
