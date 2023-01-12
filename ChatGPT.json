@@ -3,30 +3,30 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "facebook",
+        "BannerAd": "max",
         "InterstitialAd": "max",
-        "NativeAd": "admob",
+        "NativeAd": "max",
 	      
-	"FirstBanner": "admob",
-        "MainBanner": "admob",
+	"FirstBanner": "max",
+        "MainBanner": "max",
 	      
-	"InterBtn1": "admob",
+	"InterBtn1": "max",
         "InterBtn2": "max",
-        "InterBtn3": "facebook",
+        "InterBtn3": "max",
         "InterBtn4": "max",
-        "InterBtn5": "facebook",
+        "InterBtn5": "max",
         "InterBtn6": "max",
 	      
 	"FirstNative": "max",
         "MainNative": "max",
 		
-        "BannerAdmob": "ca-app-pub-7554491450630658/4743876435",
-        "InterAdmob": "ca-app-pub-7554491450630658/2881249983",
-        "NativeAdmob": "ca-app-pub-7554491450630658/1376596622",
+        "BannerAdmob": "",
+        "InterAdmob": "",
+        "NativeAdmob": "",
 	      
-	"FanBanner": "767233165013519_767234815013354",
-        "FanInter":  "767233165013519_767235755013260",
-        "FanNative": "767233165013519_767236268346542",
+	"FanBanner": "",
+        "FanInter":  "",
+        "FanNative": "",
 		
 		"MaxBanner" : "31eb8c84153b5dda",
 		"MaxInter" : "a74f76060116d011",
