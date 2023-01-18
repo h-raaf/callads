@@ -7,19 +7,19 @@
         "InterstitialAd": "admob",
         "NativeAd": "facebook",
 	      
-	              "MainBanner": "admob",
+	              "MainBanner": "max",
 
 	              "SplashInter": "max",
                       "MainInter": "facebook",
 	      	      "ContinueInter": "admob",
 	      	      "GetStartedInter": "facebook",
-	      	      "HomeActivity1": "max",
+	      	      "HomeActivity1": "admob",
 	      	      "HomeActivity2": "facebook",
 	      	      "HomeActivity3": "admob",
 	      	      "SetNameInter": "facebook",
 	      	      "StartInter": "admob",
 	     
-	              "MainNative": "admob",
+	              "MainNative": "max",
 
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
