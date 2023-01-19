@@ -3,23 +3,23 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "admob",
-        "InterstitialAd": "admob",
-        "NativeAd": "admob",
+        "BannerAd": "max",
+        "InterstitialAd": "max",
+        "NativeAd": "max",
 	      
-	              "MainBanner": "admob",
+	              "MainBanner": "max",
 
-	              "SplashInter": "admob",
-                      "MainInter": "admob",
-	      	      "ContinueInter": "admob",
-	      	      "GetStartedInter": "admob",
-	      	      "HomeActivity1": "admob",
-	      	      "HomeActivity2": "admob",
-	      	      "HomeActivity3": "admob",
-	      	      "SetNameInter": "admob",
-	      	      "StartInter": "admob",
+	              "SplashInter": "max",
+                      "MainInter": "max",
+	      	      "ContinueInter": "max",
+	      	      "GetStartedInter": "max",
+	      	      "HomeActivity1": "max",
+	      	      "HomeActivity2": "max",
+	      	      "HomeActivity3": "max",
+	      	      "SetNameInter": "max",
+	      	      "StartInter": "max",
 	      
-	             "MainNative": "admob",
+	             "MainNative": "max",
 
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
