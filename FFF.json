@@ -3,20 +3,20 @@
     "AdsController": 
       {
 		  
-        "BannerAd": "max",
+        "BannerAd": "admob",
         "InterstitialAd": "max",
-        "NativeAd": "max",
+        "NativeAd": "admob",
 	      
-	              "MainBanner": "max",
+	              "MainBanner": "admob",
 
 	              "SplashInter": "max",
-                      "MainInter": "max",
+                      "MainInter": "admob",
 	      	      "ContinueInter": "max",
-	      	      "GetStartedInter": "max",
+	      	      "GetStartedInter": "admob",
 	      	      "HomeActivity1": "max",
-	      	      "HomeActivity2": "max",
+	      	      "HomeActivity2": "admob",
 	      	      "HomeActivity3": "max",
-	      	      "SetNameInter": "max",
+	      	      "SetNameInter": "admob",
 	      	      "StartInter": "max",
 	      
 	             "MainNative": "max",
