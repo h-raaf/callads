@@ -31,7 +31,10 @@
 		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/"
+        "LinkCpa" : "https://cpabuild.com/",
+	      
+	      "interClick" : "3",
+              "ckickAds" : "0"
 		
 	
       }	  
