@@ -6,9 +6,6 @@
 			"BannerAd": "admob",
 			"InterstitialAd": "facebook",
 			"NativeAd": "max",
-
-			"MyPromo": "yes",
-			"Gift": "no",
 	      
                         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
 			"InterAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -21,20 +18,10 @@
 	"FanBanner": "IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
         "FanInter": "IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
         "FanNative": "IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235",
-        
-		"ironsource_appKey": "1011dee21",
-		
-		"unity_game_id": "3883855",
-		"unity_test": true,
-		"unity_banner": "banner",
-		"unity_interstitial": "video",
-		
+        		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://cpabuild.com/",
-	      
-	      "interClick" : "1",
-              "ckickAds" : "3"
+        "LinkCpa" : "https://cpabuild.com/"
 		
 	
       }	  
