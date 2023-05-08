@@ -1,0 +1,19 @@
+{
+	"AdsController": {
+		"TypeAd":"fan",
+		
+		"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+		"InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+		"NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+		
+		"BannerFAN":"792667345249699_792668155249618",
+                "InterstitialFAN":"792667345249699_792668031916297",
+		"NativeFAN":"792667345249699_793058505210583",
+		
+		"BannerMax": "8e2f674cfb86c93d",
+		"InterstitialMax": "537499a551986303",
+		"NativeMax": "7d869c1bde6b3336",
+		
+		"AdsClick": 1
+	}
+}
