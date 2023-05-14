@@ -6,11 +6,23 @@
         "BannerAd": "max",
         "InterstitialAd": "admob",
         "NativeAd": "facebook",
+	      
+	"FirstBanner": "max",
+        "MainBanner": "facebook",
+	      
+	"InterBtn1": "admob",
+        "InterBtn2": "facebook",
+        "InterBtn3": "admob",
+        "InterBtn4": "facebook",
+        "InterBtn5": "admob",
+        "InterBtn6": "facebook",
+
+	"FirstNative": "facebook",
+        "MainNative": "max",
 	     		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
-	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
 	      
 	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
