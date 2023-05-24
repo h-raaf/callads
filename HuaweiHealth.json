@@ -7,6 +7,8 @@
         "InterstitialAd": "admob",
         "NativeAd": "facebook",
 	      
+	 "MyPromo": "yes",
+	      
 	"FirstBanner": "max",
         "MainBanner": "facebook",
 	      
@@ -14,8 +16,6 @@
         "InterBtn2": "facebook",
         "InterBtn3": "admob",
         "InterBtn4": "facebook",
-        "InterBtn5": "admob",
-        "InterBtn6": "facebook",
 
 	"FirstNative": "facebook",
         "MainNative": "max",
@@ -23,14 +23,15 @@
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+	"OpenAdmob": "ca-app-pub-3940256099942544/3419835294",
 	      
 	"FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
         "FanInter":  "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
         "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
 		
-		"MaxBanner" : "2ad3e82339051d9a",
-		"MaxInter" :  "a781fe472197fb06",
-		"MaxNative" : "d82157e6ac1a4033",
+		"MaxBanner" : "YOUR_AD_UNIT_ID",
+		"MaxInter" :  "YOUR_AD_UNIT_ID",
+		"MaxNative" : "YOUR_AD_UNIT_ID",
 		
 		"ironsource_appKey": "13875719",
 		
@@ -41,8 +42,9 @@
 		
         "Cpa": false,
         "ImageUrl" : "https://i.imgur.com/oWEjQGy.gif",
-        "LinkCpa" : "https://www.google.com/"
-
+        "LinkCpa" : "https://www.google.com/",
+	      
+	      "intersitial_click_counter" : 2
 		
       }	  
 	      }	  
